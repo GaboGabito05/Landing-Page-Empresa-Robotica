@@ -13,6 +13,7 @@ Interactividad: Utilizamos JavaScript para agregar elementos interactivos que me
 Información Detallada: Proporcionamos detalles completos sobre nuestros productos, servicios, y la misión de la empresa para que los visitantes obtengan una visión completa de lo que ofrecemos.
 Capturas de Pantalla
 <br>
+<br>
 ![Captura de pantalla 2023-11-17 004707](https://github.com/GaboGabito05/Landing-Page-Empresa-Robotica/assets/143914438/f950c96c-ba49-40d2-b62f-83117c05233d)
 
 
