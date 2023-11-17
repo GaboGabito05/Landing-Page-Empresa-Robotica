@@ -11,6 +11,7 @@ Características
 Diseño Moderno: Hemos creado un diseño moderno y atractivo que refleja la innovación y la tecnología avanzada asociada con [Nombre de la Empresa].
 Interactividad: Utilizamos JavaScript para agregar elementos interactivos que mejoren la experiencia del usuario al explorar nuestros productos.
 Información Detallada: Proporcionamos detalles completos sobre nuestros productos, servicios, y la misión de la empresa para que los visitantes obtengan una visión completa de lo que ofrecemos.
+<br>
 Capturas de Pantalla
 <br>
 <br>
