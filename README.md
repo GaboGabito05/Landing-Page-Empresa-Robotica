@@ -15,12 +15,12 @@ Información Detallada: Proporcionamos detalles completos sobre nuestros product
 <h1>Capturas de Pantalla</h1>
 <br>
 <br>
-![Captura de pantalla 2023-11-17 004707](https://github.com/GaboGabito05/Landing-Page-Empresa-Robotica)
+![Captura de pantalla 2023-11-17 004707](https://github.com/GaboGabito05/Landing-Page-Empresa-Robotica/assets/143914438/a9649647-5ab1-4a88-ba63-94884a60a625)
 
 
 <h1>Cómo Usar</h1>
 <br>
-Clona este repositorio: git clone https://github.com/tuusuario/landing-page-robotica.git
+Clona este repositorio: https://github.com/GaboGabito05/Landing-Page-Empresa-Robotica
 Abre el archivo index.html en tu navegador.
 <h1>Personalización</h1>
 <br>
