@@ -15,7 +15,8 @@ Información Detallada: Proporcionamos detalles completos sobre nuestros product
 <h1>Capturas de Pantalla</h1>
 <br>
 <br>
-![image](https://github.com/GaboGabito05/Landing-Page-Empresa-Robotica/assets/143914438/6e0575af-c1be-4d11-886b-a31733b20b71)
+![image](https://github.com/GaboGabito05/Landing-Page-Empresa-Robotica/assets/143914438/409c2bbd-9b98-4de4-8cf3-0a2353080edc)
+
 
 
 
